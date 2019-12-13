@@ -1,3 +1,5 @@
 .bundle/
 ruby/
 rails_app/
+
+.ruby-version
